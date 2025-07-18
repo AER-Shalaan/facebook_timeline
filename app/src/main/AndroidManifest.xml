@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FacebookTimeline" >
         <activity
-            android:name=".PostActivity"
+            android:name=".TimeLineActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
